@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+projects/WeatherImagesClassification/data/dataset/*
+projects/WeatherClassification/data/dataset/*
+projects/WeatherClassification/data/dataset_renamed/*
+*.pyc
