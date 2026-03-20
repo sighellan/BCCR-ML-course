@@ -1,2 +1,1 @@
-gfi-ml-evening-course/projects/WeatherImagesClassification/data/dataset.tar.gz filter=lfs diff=lfs merge=lfs -text
-bccr-ml-course/projects/WeatherImagesClassification/data/dataset.tar.gz filter=lfs diff=lfs merge=lfs -text
+projects/WeatherImagesClassification/data/dataset.tar.gz filter=lfs diff=lfs merge=lfs -text
