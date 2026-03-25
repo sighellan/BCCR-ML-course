@@ -8,4 +8,4 @@ cd ../
 
 # Run training
 python -m src.training.train \
-    --config configs/experiment/base.yaml
+    --config configs/experiments/default.yml
