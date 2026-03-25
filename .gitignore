@@ -3,3 +3,4 @@ projects/WeatherImagesClassification/data/dataset/*
 projects/WeatherClassification/data/dataset/*
 projects/WeatherClassification/data/dataset_renamed/*
 *.pyc
+workflow-ml-project/logs/*
