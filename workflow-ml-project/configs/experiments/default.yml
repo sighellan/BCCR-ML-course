@@ -8,7 +8,7 @@ data:
   batch_size: 32
 
 trainer:
-  max_epochs: 30
+  max_epochs: 20
   learning_rate: 0.0001
   accelerator: gpu
   devices: 1
@@ -16,3 +16,4 @@ trainer:
 logging:
   project: bccr-ml-course
   run_name: baseline
+  base_dir: outputs
