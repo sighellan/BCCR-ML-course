@@ -1,5 +1,4 @@
 .ipynb_checkpoints
-projects/WeatherImagesClassification/data/dataset.tar.gz
 projects/WeatherImagesClassification/data/dataset_renamed/*
 *.pyc
 workflow-ml-project/logs/*
