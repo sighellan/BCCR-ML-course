@@ -1,0 +1,14 @@
+Weather-related images are downloaded from **Kaggle** and are licensed under **Creative Commons Zero (CC0)**.
+
+**Dataset reference:**
+
+```bibtex
+@data{DVN/M8JQCR_2021,
+  author    = {Xiao, Haixia},
+  publisher = {Harvard Dataverse},
+  title     = {Weather Phenomenon Database (WEAPD)},
+  year      = {2021},
+  version   = {V1},
+  doi       = {10.7910/DVN/M8JQCR},
+  url       = {https://doi.org/10.7910/DVN/M8JQCR}
+}
